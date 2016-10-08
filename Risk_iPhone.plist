@@ -35,7 +35,7 @@
 				<key>bundle-identifier</key>
 				<string>com.maixun.RiskConsult</string>
 				<key>bundle-version</key>
-				<string>v1.0.0</string>
+				<string>v1.0.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
