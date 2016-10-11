@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://files.51ysyy.com/ubirth/ipad/Risk-ipad-v2.0.4.ipa</string>
+					<string>http://files.51ysyy.com/ubirth/ipad/Risk-ipad-v2.0.3.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -35,7 +35,7 @@
 				<key>bundle-identifier</key>
 				<string>com.maixun.RiskConsult</string>
 				<key>bundle-version</key>
-				<string>v2.0.4</string>
+				<string>v2.0.3</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
